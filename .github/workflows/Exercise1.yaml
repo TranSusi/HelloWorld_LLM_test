@@ -3,7 +3,8 @@ name: Hello World
 on:
   push:
     branches:
-      - main
+      - exercise-1-hello-world
+      
 
 jobs:
   build:
